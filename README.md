@@ -50,15 +50,32 @@ Fixed responsive behavior
 Improved accessibility
 
 
+
+📂 Project Structure
+
+Broken website fixed demo
+│
+├── Broken version
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── Fixed version
+    ├── index.html
+    ├── style.css
+    └── script.js
+
+
+
 🌐 Live Demo Links
 
 🔴 Broken Version (Live Demo)
 
-👉 https://yourusername.github.io/broken-website-demo/broken/
+👉 https://aliarubab.github.io/broken-website-fix-demo/broken-version/
 
 🟢 Fixed Version (Live Demo)
 
-👉 https://yourusername.github.io/broken-website-demo/fixed/
+👉 https://aliarubab.github.io/broken-website-fix-demo/fixed-version/
 
 
 
