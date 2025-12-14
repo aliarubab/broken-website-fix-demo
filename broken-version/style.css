@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+}
+
+nav ul {
+  display: flex;
+}
+
+#menuBtn {
+  display: none;
+}
+
+.hero {
+  height: 300px;
+  background: lightgray;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+    display: none; /* menu disappears */
+  }
+
+  #menuBtn {
+    display: block;
+  }
+}
